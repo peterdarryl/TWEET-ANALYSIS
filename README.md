@@ -1,2 +1,2 @@
 # TWEET-ANALYSIS
-NLP: Performing sentiment analysis on text-tweet data from Twitter.
+NLP: Sentiment analysis on text-tweet data from Twitter.
